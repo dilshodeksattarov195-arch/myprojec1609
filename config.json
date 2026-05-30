@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderselete",
+        "uuid": 2696684,
+        "checksum": "roerum"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
